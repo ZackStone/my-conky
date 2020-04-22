@@ -1,6 +1,8 @@
 # my-conky
 
-Play with the options and build your own custom Conky style. Fork the repo and share your Conky template.
+How to install and configure: [A Beginner's Guide to Conky](https://www.lifewire.com/beginners-guide-to-conky-4043352)
+
+Fork the repo, play with the options, build your own custom style and share your Conky template.
 
 ![Image 1](https://github.com/zackstone/my-conky/blob/master/Screenshot1.png?raw=true)
 
