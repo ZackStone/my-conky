@@ -1,3 +1,3 @@
 # my-conky
 
-![Image description]("/Screenshot 1.png")
+[Image descripion]("https://github.com/zackstone/my-conky/blob/master/Screenshot 1.png?raw=true")
